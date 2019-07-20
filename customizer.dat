@@ -1,0 +1,146 @@
+a:4:{s:8:"template";s:4:"kiwi";s:4:"mods";a:20:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:7:"primary";i:4;}s:18:"custom_css_post_id";i:114;s:21:"vct_header_background";s:0:"";s:19:"vct_header_position";s:3:"top";s:27:"vct_footer_area_widget_area";b:0;s:28:"vct_footer_area_social_icons";b:0;s:31:"vct_overall_site_featured_image";b:0;s:29:"vct_overall_site_page_sidebar";s:4:"none";s:29:"vct_overall_site_post_sidebar";s:4:"none";s:28:"vct_overall_site_aac_sidebar";s:4:"none";s:16:"background_color";s:6:"ffffff";s:35:"vct_overall_site_content_background";s:7:"#ffffff";s:34:"vct_fonts_and_style_h1_font_family";s:7:"Poppins";s:16:"sidebars_widgets";a:2:{s:4:"time";i:1563087554;s:4:"data";a:3:{s:19:"wp_inactive_widgets";a:0:{}s:9:"sidebar-1";a:6:{i:0;s:8:"search-2";i:1;s:14:"recent-posts-2";i:2;s:17:"recent-comments-2";i:3;s:10:"archives-2";i:4;s:12:"categories-2";i:5;s:6:"meta-2";}s:12:"sidebar_page";a:0:{}}}s:11:"custom_logo";s:0:"";s:15:"display_top_bar";b:0;s:16:"site_title_typog";a:9:{s:11:"font-family";s:4:"Arvo";s:7:"variant";s:7:"regular";s:9:"font-size";s:4:"24Px";s:11:"line-height";s:3:"1.1";s:14:"letter-spacing";s:3:"1px";s:14:"text-transform";s:9:"uppercase";s:11:"font-backup";s:0:"";s:11:"font-weight";i:400;s:10:"font-style";s:6:"normal";}s:7:"p_typog";a:9:{s:11:"font-family";s:9:"Fauna One";s:7:"variant";s:7:"regular";s:9:"font-size";s:4:"14px";s:11:"line-height";s:3:"1.7";s:14:"letter-spacing";s:3:"0px";s:14:"text-transform";s:7:"inherit";s:11:"font-backup";s:0:"";s:11:"font-weight";i:400;s:10:"font-style";s:6:"normal";}s:13:"top_bar_typog";a:9:{s:11:"font-family";s:9:"Fauna One";s:7:"variant";s:7:"regular";s:9:"font-size";s:4:"14px";s:11:"line-height";s:4:"22px";s:14:"letter-spacing";s:3:"0px";s:14:"text-transform";s:7:"inherit";s:11:"font-backup";s:0:"";s:11:"font-weight";i:400;s:10:"font-style";s:6:"normal";}}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:8963:".elementor-10 .elementor-element.elementor-element-8f20702 .eael-infobox:hover .infobox-icon i,
+.elementor-10 .elementor-element.elementor-element-4439738 .eael-infobox:hover .infobox-icon i,
+.elementor-10 .elementor-element.elementor-element-9d6bf9b .eael-infobox:hover .infobox-icon i,
+.elementor-10 .elementor-element.elementor-element-232447e .eael-infobox:hover .infobox-icon i,
+.elementor-10 .elementor-element.elementor-element-c7aeea8 .eael-infobox:hover .infobox-icon i,
+.elementor-10 .elementor-element.elementor-element-89d7b76 .eael-infobox:hover .infobox-icon i,
+.elementor-486 .elementor-element.elementor-element-8f20702 .eael-infobox:hover .infobox-icon i,
+.elementor-1014 .elementor-element.elementor-element-8f20702 .eael-infobox:hover .infobox-icon i,
+.elementor-1014 .elementor-element.elementor-element-4439738 .eael-infobox:hover .infobox-icon i,
+.elementor-1014 .elementor-element.elementor-element-9d6bf9b .eael-infobox:hover .infobox-icon i,
+.elementor-1014 .elementor-element.elementor-element-232447e .eael-infobox:hover .infobox-icon i,
+.elementor-1014 .elementor-element.elementor-element-c7aeea8 .eael-infobox:hover .infobox-icon i,
+.elementor-1014 .elementor-element.elementor-element-89d7b76 .eael-infobox:hover .infobox-icon i
+
+{
+background: -webkit-linear-gradient(#fc6668, #ec018c);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+
+
+.elementor-10 .elementor-element.elementor-element-63993b1 .eael-progressbar-line-fill,
+.elementor-10 .elementor-element.elementor-element-bd19a34 .eael-progressbar-line-fill,
+.elementor-10 .elementor-element.elementor-element-bbf5290 .eael-progressbar-line-fill,
+.elementor-10 .elementor-element.elementor-element-af4d653 .eael-progressbar-line-fill,
+.elementor-10 .elementor-element.elementor-element-764c2f3 .eael-progressbar-line-fill,
+.elementor-486 .elementor-element.elementor-element-63993b1 .eael-progressbar-line-fill,
+.elementor-486 .elementor-element.elementor-element-bd19a34 .eael-progressbar-line-fill,
+.elementor-486 .elementor-element.elementor-element-bbf5290 .eael-progressbar-line-fill,
+.elementor-486 .elementor-element.elementor-element-af4d653 .eael-progressbar-line-fill,
+.elementor-486 .elementor-element.elementor-element-764c2f3 .eael-progressbar-line-fill,
+.elementor-504 .elementor-element.elementor-element-16521ee .eael-progressbar-line-fill,
+.elementor-504 .elementor-element.elementor-element-8a0227e .eael-progressbar-line,
+.elementor-504 .elementor-element.elementor-element-cfc7b2a .eael-progressbar-line-fill,
+.elementor-504 .elementor-element.elementor-element-245266c .eael-progressbar-line-fill,
+.elementor-504 .elementor-element.elementor-element-d02a507 .eael-progressbar-line-fill,
+.elementor-1014 .elementor-element.elementor-element-63993b1 .eael-progressbar-line-fill,
+.elementor-1014 .elementor-element.elementor-element-bd19a34 .eael-progressbar-line-fill,
+.elementor-1014 .elementor-element.elementor-element-bbf5290 .eael-progressbar-line-fill,
+.elementor-1014 .elementor-element.elementor-element-af4d653 .eael-progressbar-line-fill,
+.elementor-1014 .elementor-element.elementor-element-764c2f3 .eael-progressbar-line-fill,
+.elementor-679 .elementor-element.elementor-element-3a1b751 .eael-progressbar-line-fill,
+.elementor-679 .elementor-element.elementor-element-8a374bc .eael-progressbar-line-fill,
+.elementor-679 .elementor-element.elementor-element-952f6c4 .eael-progressbar-line-fill,
+.elementor-679 .elementor-element.elementor-element-ee71920 .eael-progressbar-line-fill,
+.elementor-679 .elementor-element.elementor-element-35d3563 .eael-progressbar-line-fill
+
+{
+	border-radius:20px;
+}
+
+
+.elementor-column-wrap .elementor-element-populated:hover .elementor-element.elementor-element-2f6c602 .elementor-heading-title ,.elementor-column-wrap .elementor-element-populated:hover .elementor-element-88ab57d .elementor-heading-title ,
+
+.elementor-column-wrap .elementor-element-populated:hover .elementor-element.elementor-element-8d3d17a .elementor-heading-title,.elementor-column-wrap .elementor-element-populated:hover .elementor-element-aaec4a5 .elementor-heading-title,
+
+.elementor-column-wrap .elementor-element-populated:hover .elementor-element.elementor-element-b2354e8 .elementor-heading-title,.elementor-column-wrap .elementor-element-populated:hover .elementor-element-61db2a6 .elementor-heading-title,
+
+.elementor-column-wrap .elementor-element-populated:hover .elementor-element.elementor-element-44c46d4 .elementor-heading-title,.elementor-column-wrap .elementor-element-populated:hover .elementor-element-4c7eda8 .elementor-heading-title,
+.elementor-column-wrap .elementor-element-populated:hover .elementor-element.elementor-element-c7f9470 .elementor-heading-title,.elementor-column-wrap .elementor-element-populated:hover .elementor-element-8b83ba2 .elementor-heading-title,
+.elementor-column-wrap .elementor-element-populated:hover .elementor-element.elementor-element-c6f8432 .elementor-heading-title,.elementor-column-wrap .elementor-element-populated:hover .elementor-element-1be6260 .elementor-heading-title,
+.elementor-column-wrap .elementor-element-populated:hover .elementor-element.elementor-element-6eb41ee .elementor-heading-title,.elementor-column-wrap .elementor-element-populated:hover .elementor-element-b362d1b .elementor-heading-title,
+.elementor-column-wrap .elementor-element-populated:hover .elementor-element.elementor-element-32cb99b .elementor-heading-title,.elementor-column-wrap .elementor-element-populated:hover .elementor-element-1f2e00e .elementor-heading-title,
+.elementor-column-wrap .elementor-element-populated:hover .elementor-element-12d4b86 .elementor-heading-title,
+.elementor-column-wrap .elementor-element-populated:hover .elementor-element-3d298fc .elementor-heading-title,
+.elementor-column-wrap .elementor-element-populated:hover .elementor-element-30fc85a .elementor-heading-title,
+.elementor-column-wrap .elementor-element-populated:hover .elementor-element-2f2590e .elementor-heading-title
+ 
+ 
+
+
+
+{
+background-color: transparent;
+background-image: linear-gradient(90deg, #fff 40%, #fff 70%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+
+.elementor-486 .elementor-element.elementor-element-8f20702 .eael-infobox:hover .infobox-icon i,
+.elementor-486 .elementor-element.elementor-element-4439738 .eael-infobox:hover .infobox-icon i,
+.elementor-486 .elementor-element.elementor-element-9d6bf9b .eael-infobox:hover .infobox-icon i,
+.elementor-486 .elementor-element.elementor-element-232447e .eael-infobox:hover .infobox-icon i,
+.elementor-486 .elementor-element.elementor-element-c7aeea8 .eael-infobox:hover .infobox-icon i,
+.elementor-486 .elementor-element.elementor-element-89d7b76 .eael-infobox:hover .infobox-icon i
+
+{
+background: -webkit-linear-gradient(#fa6388, #6f62fd);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.elementor-504 .elementor-element.elementor-element-1dad86a .eael-infobox:hover .infobox-icon i,
+.elementor-504 .elementor-element.elementor-element-8fc2ba5 .eael-infobox:hover .infobox-icon i ,
+.elementor-504 .elementor-element.elementor-element-df6f3d2 .eael-infobox:hover .infobox-icon i,
+.elementor-504 .elementor-element.elementor-element-dd9aebd .eael-infobox:hover .infobox-icon i,
+.elementor-504 .elementor-element.elementor-element-968833c .eael-infobox:hover .infobox-icon i,
+.elementor-504 .elementor-element.elementor-element-0272507 .eael-infobox:hover .infobox-icon i
+
+{
+background: -webkit-linear-gradient(#f65c69, #a04e61);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.elementor-504 .elementor-element.elementor-element-015b8ca .htmega-single-post .post-category a,
+.elementor-504 .elementor-element.elementor-element-c46c89c .htmega-single-post .post-category a,
+.elementor-504 .elementor-element.elementor-element-2ea7b90 .htmega-single-post .post-category a,.elementor-785 .elementor-element.elementor-element-5849d8e .htmega-single-post .post-category a,
+.elementor-785 .elementor-element.elementor-element-ca6d4d4 .htmega-single-post .post-category a,
+.elementor-785 .elementor-element.elementor-element-bfaf0e7 .htmega-single-post .post-category a,
+.elementor-785 .elementor-element.elementor-element-8a4303f .htmega-single-post .post-category a,
+.elementor-785 .elementor-element.elementor-element-31efcb8 .htmega-single-post .post-category a,
+.elementor-785 .elementor-element.elementor-element-e4c3de9 .htmega-single-post .post-category a,
+.elementor-785 .elementor-element.elementor-element-337739a .htmega-single-post .post-category a,
+.elementor-785 .elementor-element.elementor-element-5b0acb7 .htmega-single-post .post-category a,
+.elementor-785 .elementor-element.elementor-element-c9565bb .htmega-single-post .post-category a
+{
+	border-radius: 50px;
+}
+
+/* For Contact Form (starts)  */
+.flexbox{ 
+	display: flex;
+	justify-content: space-between;
+}
+
+.box1,
+.box2,
+.box3{
+
+}
+
+.mail{
+
+}
+
+.yourname,
+.mail,
+.subject{
+
+}
+
+
+";}
